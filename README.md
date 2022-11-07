@@ -1,9 +1,9 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&desc=Joon's%20Github%20profile&descAlign=65&descAlignY=65)  
-  
-![kkkapuq's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkapuq&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkapuq&layout=compact&theme=tokyonight)
+
+![kkkapuq's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkapuq&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkapuq&layout=compact&theme=radical)
   
 ## 👩‍💻조형준(Emil) : Backend Developer  
 항상 겸손한 자세로 배웁니다.  
