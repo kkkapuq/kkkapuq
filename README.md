@@ -22,5 +22,5 @@
 
 ## ☎Social & Contact☎  
 <a href="https://kkkapuq.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=Tistory&logoColor=white"/></a>  
-fhrek60@gmail.com
+selcon1996@gmail.com
 </div>  
