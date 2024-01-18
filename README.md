@@ -4,6 +4,7 @@
 
 ![kkkapuq's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkkapuq&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkkapuq&layout=compact&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kkkapuq)](https://solved.ac/kkkapuq)
   
 ## 👩‍💻조형준(Emil) : Backend Developer  
 항상 겸손한 자세로 배웁니다.  
