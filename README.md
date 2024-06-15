@@ -7,15 +7,26 @@
 현재에 안주하지 않고 끊임없이 개선점을 모색합니다.  
   
 ## Stacks
-**Main**  
+**Programming**  
 <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=black">
-<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=black">
-<img src="https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=Springboot&logoColor=black">
-<img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Oracle&logoColor=white">
-
-**Sub**  
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow">
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white">  
+
+**Framework**  
+<img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=Springboot&logoColor=white">
+<img src="https://img.shields.io/badge/springsecurity-green?style=for-the-badge&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/Kakfa-white?style=for-the-badge&logo=apachekafka&logoColor=black">
+
+**DB**  
+<img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=orange">  
+
+**Ops**  
+<img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Jenkins-orange?style=for-the-badge&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Github Actions-blue?style=for-the-badge&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 
 ## ☎Social & Contact☎  
 <a href="https://kkkapuq.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=Tistory&logoColor=white"/></a>  
