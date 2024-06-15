@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Github Actions-blue?style=for-the-badge&logo=githubactions&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonwebservices&logoColor=white">
 
-## ☎Social & Contact☎  
+## Social & Contact  
 <a href="https://kkkapuq.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog-orange?style=flat-square&logo=Tistory&logoColor=white"/></a>  
 selcon1996@gmail.com
 </div>  
