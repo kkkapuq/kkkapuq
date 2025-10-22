@@ -8,15 +8,15 @@ interests:
   - Game Development
   - DevOps
 
-tech_stack:
+tech_stacks:
   languages: [Java, Python]
   databases: [MySQL, Oracle, Redis, MongoDB]
   frameworks: [Spring]
-  infrastructure: [AWS, Azure, Docker]
+  infrastructure: [AWS, Azure, Docker, Jenkins]
 
 learning: [Kafka, AWS, K8s, Go]
 
-contact:
+contacts:
   email: chjoon.dev@gmail.com
   linked-in: https://www.linkedin.com/in/hjchodev
   blog: https://kkkapuq.tistory.com/
