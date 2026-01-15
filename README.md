@@ -5,7 +5,6 @@ role: Backend Developer
 
 interests:
   - Web Development
-  - Game Development
   - DevOps
 
 tech_stacks:
@@ -14,7 +13,7 @@ tech_stacks:
   frameworks: [Spring]
   infrastructure: [AWS, Azure, Docker, Jenkins]
 
-learning: [Kafka, AWS, K8s, Go]
+learning: [Kafka, AWS, Python, Django]
 
 contacts:
   email: chjoon.dev@gmail.com
